@@ -1,4 +1,12 @@
-# Android Studio 를 이용한 앱 UI
+---
+layout: post
+title: Android Studio를 이용한 앱 UI
+date: 2020-01-16 10:10
+author: cjmp1
+tags: app
+---
+
+# Android Studio를 이용한 앱 UI
 
 ## Contents
 
